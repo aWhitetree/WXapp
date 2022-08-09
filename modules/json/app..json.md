@@ -1,3 +1,3 @@
 
 ## 如图
-[app.json](.../imges/json/app.jpg)
+[app.json](./imges/json/app.jpg)
