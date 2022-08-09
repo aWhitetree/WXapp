@@ -6,7 +6,7 @@ course
 ### JSON
 JSON是一种数据格式，通常以配置文件的形式出现
 ### 小程序中有四种JSON配置文件
-app.json   project.config.json   sitemap.json    每个页面中的配置文件
+> app.json   project.config.json   sitemap.json    每个页面中的配置文件
 ## .wxml（模板结构文件）
 ## .wxss（样式文件）
 # util（工具类模块）
